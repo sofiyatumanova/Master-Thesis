@@ -1,1 +1,2 @@
 The file download_coordinates_thesis_version.py is a custom script for downloading satellite images using shapefile polygon boundaries. This script was used to collect imagery to create a custom dataset of Caribbean vessels. 
+The file training_model_thesis_version.py is a custom script for loading the annotated data of Caribbean vessels, training a custom object detection model using a YOLO framework, and predicting on "test" images to evaluate the model's performance on real world data.
